@@ -1,3 +1,4 @@
 # TRANSLATING TEXT FROM RUSSIAN TO ENGLISH WITH ATTENTION
-- USED SEQ-TO-SEQ MODEL TO CONVERT
-- TRAIN LOSS 0.93 VAL LOSS 1.21
+- Used encoder decoder model to convert language from russian to english with attention mechanism at decoder.
+- Achieved crossentropy loss of 0.93 for training and 1.21 for validation
+- Used - Python, Pytorch, spacy, torchtext
